@@ -1,0 +1,33 @@
+body {
+    background-color: #bac7f0;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #021d3a;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  p#resultado {
+    
+    margin-top: 20px;
+    font-size: 32px;
+    color: #021d3a;
+  }
